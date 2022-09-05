@@ -1,9 +1,7 @@
-# disabling, doesn't work. Some dependency outdated.
-
 # This is a basic workflow to help you get started with Actions
-name: Liquibase_Gradle_GitHub-Hosted
+name: Liquibase Gradle plugin
 
-#on: [push]
+on: [push]
 
 # For more control over when the action will run, comment out (or delete) the above and trigger the workflow on master-branch push or pull request
 # by uncommenting the appropriate section below.
