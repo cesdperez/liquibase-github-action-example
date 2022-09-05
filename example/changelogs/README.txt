@@ -28,3 +28,4 @@ For working with Oracle:
 
 Copyright 2020 Datical, Inc. All rights reserved. The program is subject to the 
 license agreement, copyright, trademark, patent, and other laws.
+
